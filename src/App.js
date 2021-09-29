@@ -29,8 +29,18 @@ function App() {
       }
     }
     console.log(s,state);
+    if(state===""|| state2===""){
+      set3(" Please Enter Values")
+
+    }
+    else if(isNaN(state)){
+      set3(" Please Enter Numerical Values")
+    }
+    else if(state<0){
+      set3(" Please Enter Positive Values")
+    }
     
-    if(s%parseInt(state)===0){
+    else if(s%parseInt(state)===0){
       set3(" Congratulations! You're Lucky Ducky. You're In!")
 
     }
