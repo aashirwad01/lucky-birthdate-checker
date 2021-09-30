@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+A react app to check whether you're birthdate is lucky or not based on simple calculations.
+`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
