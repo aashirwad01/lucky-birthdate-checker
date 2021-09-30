@@ -70,6 +70,7 @@ function App() {
 </div>
 
     <h1 id="line-3">{state3}</h1>
+    <sh3 id="line-4">We do not store any Data. No Database.</sh3>
 
     <footer>
       <p> © | 2021 | aashirwad01</p>
