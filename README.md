@@ -1,6 +1,49 @@
-# Getting Started with Create React App
+# Palindrome BirthDate Checker App
+A React based app to check whether birthday is lucky or not by dividing digits of birthdate with chosen no.
 
-A react app to check whether you're birthdate is lucky or not based on simple calculations.
+## Uses
+- Can be used to calculate **whether your birthdate is lucky or not** in *dd/mm/yyyy* format
+- Can be to known divisibility of **date** by a *no*
+- Can handle all the corner cases negative values and blank cells
+
+### A Palindrome Date Checker App
+
+## Hosted on Netlify [Are You Lucky Ducky](https://are-you-luckyducky.netlify.app/)
+![Cash Register](https://github.com/aashirwad01/aashirwad-site/blob/main/images/markeleven.png)
+### Intended Use A app App to Know if You are Lucky as Ducky.
+
+
+## Tech Stack Used
+- React
+  - hooks
+    - useState
+    - onClick
+    - onChange
+    - setvalue function
+    - event.target.value
+  - react dom
+    - input
+    - div
+    - h3 h2 h1
+    - footer
+    - img
+ 
+ 
+- Css
+  - text align
+  - border radius
+  - color
+  - background color
+  - font
+  - font size
+ 
+## Future Additions
+- Can be scaled to display day alongside the dates
+- Tech Stack can be improved and expanded to make it more interactive.
+- Can be expanded to have a multiple date formats.
+ 
+
+
 `
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
